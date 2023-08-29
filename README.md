@@ -1,15 +1,15 @@
 # Proyecto: 
-<img src="Desarrollo/Assets/line.png" align="center">
+<img src="desarrollo/assets/line.png" align="center">
 
 
 # Dispenser automático de comida y agua para Mascotas con ESP32
 
 ### Docente
-<img src="Desarrollo/Assets/line.png" align="center">
+<img src="desarrollo/assets/line.png" align="center">
 
 - 👨‍🏫 **Cristian Gonzalo Vera**. Prof. Instituto Superior Politécnico Córdoba y Desarrolador IoT. [Ver Github](https://github.com/Gona79).
 
-<img src="Desarrollo/Assets/line.png" align="center">
+<img src="desarrollo/assets/line.png" align="center">
 
 ## Introducción:
 El Dispenser automático de Comida y Agua para Mascotas con ESP32 es un dispositivo diseñado para asegurarse de que tus mascotas siempre tengan acceso a comida y agua fresca, incluso cuando no estás en casa. El dispositivo utiliza un ESP32, sensores de nivel y un mecanismo de dispensación para mantener el plato de comida y bebida llenos en todo momento.
