@@ -20,7 +20,7 @@ El Dispenser automático de Comida y Agua para Mascotas con ESP32 es un disposit
 
 ✔️ *Sensores de nivel de agua y comida*
 
-✔️ *Motores o servomotores para la dispensación*
+✔️ *Servomotores para la dispensación*
 
 ✔️ *Contenedores de comida y agua*
 
