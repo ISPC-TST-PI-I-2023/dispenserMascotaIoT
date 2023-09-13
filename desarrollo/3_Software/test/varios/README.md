@@ -1,4 +1,5 @@
-ok, volviendo al dispenser de mascota, vamos a ir haciendo el test del hardware. Por un lado tenemos un control remoto infrarojo, cuyo programa de control es el siguiente: 
+**Haciendo el test de hardware correspondiente a cada componente.**  
+**Por un lado tenemos un control remoto infrarojo, cuyo programa de control es el siguiente:**
 
 #include <Arduino.h>
 #include <IRremoteESP8266.h>
