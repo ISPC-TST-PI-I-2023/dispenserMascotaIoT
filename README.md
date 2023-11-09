@@ -31,7 +31,7 @@ Por medio del desarrollo de este dispositivo se ha podido dar soluciones a algun
 
 ✔️ *Sensores de nivel de agua y comida*
 
-✔️ *Motores o servomotores para la dispensación*
+✔️ *Servomotores para la dispensación*
 
 ✔️ *Contenedores de comida y agua*
 
